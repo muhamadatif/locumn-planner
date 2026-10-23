@@ -35,7 +35,6 @@ export function Footer() {
       <div className="border-t border-white/15">
         <div className="mx-auto flex max-w-7xl flex-col gap-2 px-5 py-5 text-xs text-white/50 lg:flex-row lg:justify-between lg:px-8">
           <span>© {new Date().getFullYear()} Locum Planner. All rights reserved.</span>
-          <span>Associated with Locum GNC.</span>
         </div>
       </div>
     </footer>

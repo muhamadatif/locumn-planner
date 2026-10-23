@@ -19,7 +19,6 @@ export default function HomePage() {
     url: process.env.NEXT_PUBLIC_SITE_URL || 'https://locumplanner.com',
     logo: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://locumplanner.com'}/locum-planner-logo.png`,
     description: 'Healthcare recruitment, made simpler. Connecting healthcare organisations with healthcare professionals across the UK.',
-    parentOrganization: { '@type': 'Organization', name: 'Locum GNC' },
   }
 
   return (

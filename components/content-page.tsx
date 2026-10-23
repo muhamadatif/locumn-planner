@@ -64,7 +64,7 @@ export function ContentPage({ type }: { type: ContentType }) {
               <div className="flex flex-col gap-6 leading-8 text-muted-foreground">
                 <p>Locum Planner connects healthcare organisations looking for support with healthcare professionals looking for their next opportunity.</p>
                 <p>We focus on making the first steps simple: clear information, thoughtful conversations and a recruitment process that respects the time of everyone involved.</p>
-                <p>Locum Planner is associated with Locum GNC. It is presented as a distinct website and brand, with final legal and business details to be confirmed before launch.</p>
+                <p>Final legal and business details are to be confirmed before launch.</p>
               </div>
             </Reveal>
           </section>
